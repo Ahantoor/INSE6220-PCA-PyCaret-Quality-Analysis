@@ -138,10 +138,10 @@ Dataset file: wine_dataset.csv
 
 Author
 
-Student Name: [Your Name]
-Student ID: [Your ID]
+Student Name: Ahmed Hantoor 
+Student ID: 40326983
 Course: INSE 6220 – Advanced Statistical Approaches to Quality
-Instructor: [Instructor Name]
+Instructor: Abdessamad Ben Hamza
 Institution: Concordia University
 
 Project Paper
@@ -151,7 +151,7 @@ The full written report is provided inside the repository in PDF/Docx format.
 Contact
 
 For questions or academic verification, please contact:
-Email: [Your Concordia Email]
+Email: a_hantoo@live.concordia.ca
 
 Acknowledgments
 
